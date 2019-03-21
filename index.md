@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'Welcome to the Ask Azure slack!'
-description: null
+description: 'Join us!'
 image: null
 author: null
 show_tile: false
