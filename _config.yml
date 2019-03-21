@@ -2,7 +2,7 @@
 title: Ask
 subtitle: An Azure Architect
 email: info@askazure.io
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Get your questions answered .
 baseurl: "/askazureio-2" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: jpda
@@ -23,7 +23,7 @@ facebook_url:
 github_url: https://github.com/jpda
 gitlab_url: 
 googleplus_url: 
-instagram_url: https://instagram.com
+# instagram_url: https://instagram.com
 linkedin_url: https://www.linkedin.com/in/johndandison
 pinterest_url:
 slack_url: https://askazure.io
