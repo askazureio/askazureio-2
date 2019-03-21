@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Disclaimer
 description: Read me first! Disclaimers and words from the lawyers. 
 image: assets/images/pic11.jpg

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Why isn't this on Microsoft Teams?
 description: We get this question a lot. 
 image: assets/images/pic11.jpg
