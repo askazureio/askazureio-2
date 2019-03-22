@@ -19,3 +19,4 @@ show_tile: true
 	</div>
 </section>
 
+</div>

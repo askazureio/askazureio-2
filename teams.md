@@ -23,6 +23,6 @@ nav-menu: true
 - This isn't an offically-sanctioned channel, just a community of people who are using or are interested in Azure - we want to get closest to everyone without onerous requirements.
 
 As Teams continues to mature, however, we'll constantly re-evaluate when it might be worth a switch. For now, Slack is the best place. </p>
-	
+</div>	
 </section>
 </div>
